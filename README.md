@@ -6,3 +6,17 @@ In this repository you can learn how to web scrape data from public web sites an
 <p align="center">
     <img src="media/nypl.gif" alt="Description" width="500" height="300">
 </p>
+
+
+## 📚 Resources #Learning #References
+- [BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Selenium Documentation](https://www.selenium.dev/documentation/)
+- [Scraping Best Practices](https://developers.google.com/search/blog/2019/05/internet-search-experience)
+
+## 🙌 Contributing #OpenSource #Collaboration
+Contributions are welcome! Please open issues or pull requests.
+
+
+---
+
+_Last updated: November 12, 2025_
